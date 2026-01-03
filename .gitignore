@@ -1,0 +1,12 @@
+# C++ build outputs
+*.exe
+*.out
+*.o
+*.obj
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/launch.json  # launch.jsonは公開OKなので除外しない
+.idea/

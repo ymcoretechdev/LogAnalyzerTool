@@ -1,0 +1,8 @@
+[INFO] Application start
+[INFO] Load config
+[ERROR] Failed to connect DB
+[WARN] retrying...
+[ERROR] Failed to connect DB
+[INFO] Process order 1001
+Exception: NullPointer occurred
+[INFO] Shutdown signal received

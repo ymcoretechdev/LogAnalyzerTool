@@ -1,0 +1,6 @@
+[INFO] Batch job start
+[ERROR] File not found
+[INFO] Continue processing
+[ERROR] Memory overflow
+Exception: OutOfRange
+[INFO] Batch job end
